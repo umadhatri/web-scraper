@@ -1,4 +1,4 @@
-<h1> Web Scraper
+<h1> Web Scraper </h1>
 This is a simple web scaper app that uses JavaScrpit and some really cool packages to do the job
 
 <hr>
